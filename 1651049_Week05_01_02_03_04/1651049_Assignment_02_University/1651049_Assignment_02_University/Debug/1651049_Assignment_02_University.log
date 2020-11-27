@@ -1,0 +1,11 @@
+﻿  HomeroomTeacher.cpp
+G:\1651049_Week05_01_02_03_04\1651049_Assignment_02_University\1651049_Assignment_02_University\Resource\HomeroomTeacher.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Teacher.cpp
+  University.cpp
+G:\1651049_Week05_01_02_03_04\1651049_Assignment_02_University\1651049_Assignment_02_University\Resource\University.cpp(19,3): error C2065: 'Typeteacher': undeclared identifier
+G:\1651049_Week05_01_02_03_04\1651049_Assignment_02_University\1651049_Assignment_02_University\Resource\University.cpp(21,18): error C2065: 'Typeteacher': undeclared identifier
+G:\1651049_Week05_01_02_03_04\1651049_Assignment_02_University\1651049_Assignment_02_University\Resource\University.cpp(22,23): error C2065: 'Typeteacher': undeclared identifier
+G:\1651049_Week05_01_02_03_04\1651049_Assignment_02_University\1651049_Assignment_02_University\Resource\University.cpp(24,3): error C2065: 'Typeteacher': undeclared identifier
+G:\1651049_Week05_01_02_03_04\1651049_Assignment_02_University\1651049_Assignment_02_University\Resource\University.cpp(25,3): error C2065: 'tea': undeclared identifier
+G:\1651049_Week05_01_02_03_04\1651049_Assignment_02_University\1651049_Assignment_02_University\Resource\University.cpp(26,2): error C2143: syntax error: missing ';' before '}'
+  Generating Code...
